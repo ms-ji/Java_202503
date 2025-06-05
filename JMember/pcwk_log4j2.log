@@ -1,0 +1,132 @@
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk01,이상무01,4321a,jamesol@paran.com,0,2025-04-18,일반
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk02,이상무02,4321a,jamesol@paran.com,0,2025-04-19,일반
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk03,이상무03,4321a,jamesol@paran.com,0,2025-04-20,일반
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk04,이상무04,4321a,jamesol@paran.com,0,2025-04-21,일반
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk05,이상무05,4321a,jamesol@paran.com,0,2025-04-22,관리자
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:64) - ┌───────────────────┐
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:65) - │List<MemberVO>     │
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:66) - └───────────────────┘
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@56f0cc85]
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@6d23017e]
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@54dcfa5a]
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@1817f1eb]
+[2025-04-23 16:44:20] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@767e20cf]
+[2025-04-23 16:44:20] DEBUG MemberDao.doSave(MemberDao.java:89) - 1. param:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@3a3e78f]
+[2025-04-23 16:44:20] DEBUG MemberDao.doSave(MemberDao.java:91) - 2. flag:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@3a3e78f]
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk01,이상무01,4321a,jamesol@paran.com,0,2025-04-18,일반
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk02,이상무02,4321a,jamesol@paran.com,0,2025-04-19,일반
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk03,이상무03,4321a,jamesol@paran.com,0,2025-04-20,일반
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk04,이상무04,4321a,jamesol@paran.com,0,2025-04-21,일반
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:47) - pcwk05,이상무05,4321a,jamesol@paran.com,0,2025-04-22,관리자
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:64) - ┌───────────────────┐
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:65) - │List<MemberVO>     │
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:66) - └───────────────────┘
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@55dfebeb]
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4535b6d5]
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@1ecee32c]
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4372b9b6]
+[2025-04-23 16:46:34] DEBUG MemberDao.getMemberReadFile(MemberDao.java:69) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 16:46:34] DEBUG MemberDao.doSave(MemberDao.java:89) - 1. param:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4b41e4dd]
+[2025-04-23 16:46:34] DEBUG MemberDao.doSave(MemberDao.java:91) - 2. flag:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4b41e4dd]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk01,이상무01,4321a,jamesol@paran.com,0,2025-04-18,일반
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk02,이상무02,4321a,jamesol@paran.com,0,2025-04-19,일반
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk03,이상무03,4321a,jamesol@paran.com,0,2025-04-20,일반
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk04,이상무04,4321a,jamesol@paran.com,0,2025-04-21,일반
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk05,이상무05,4321a,jamesol@paran.com,0,2025-04-22,관리자
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:78) - ┌───────────────────┐
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:79) - │List<MemberVO>     │
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:80) - └───────────────────┘
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@5ef6ae06]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@305a0c5f]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4535b6d5]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@1ecee32c]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@4372b9b6]
+[2025-04-23 17:10:12] DEBUG MemberDao.doSave(MemberDao.java:103) - 1. param:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 17:10:12] DEBUG MemberDao.doSave(MemberDao.java:105) - 2. flag:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk01,이상무01,4321a,jamesol@paran.com,0,2025-04-18,일반
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk02,이상무02,4321a,jamesol@paran.com,0,2025-04-19,일반
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk03,이상무03,4321a,jamesol@paran.com,0,2025-04-20,일반
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk04,이상무04,4321a,jamesol@paran.com,0,2025-04-21,일반
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk05,이상무05,4321a,jamesol@paran.com,0,2025-04-22,관리자
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:78) - ┌───────────────────┐
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:79) - │List<MemberVO>     │
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:80) - └───────────────────┘
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@5ef6ae06]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@305a0c5f]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4535b6d5]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@1ecee32c]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@4372b9b6]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4b41e4dd]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@22ffa91a]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@74960bfa]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@42721fe]
+[2025-04-23 17:10:12] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@40844aab]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk01,이상무01,4321a,jamesol@paran.com,0,2025-04-18,일반
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk02,이상무02,4321a,jamesol@paran.com,0,2025-04-19,일반
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk03,이상무03,4321a,jamesol@paran.com,0,2025-04-20,일반
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk04,이상무04,4321a,jamesol@paran.com,0,2025-04-21,일반
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk05,이상무05,4321a,jamesol@paran.com,0,2025-04-22,관리자
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:78) - ┌───────────────────┐
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:79) - │List<MemberVO>     │
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:80) - └───────────────────┘
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@5ef6ae06]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@305a0c5f]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4535b6d5]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@1ecee32c]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@4372b9b6]
+[2025-04-23 17:13:21] DEBUG MemberDao.doSave(MemberDao.java:103) - 1. param:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 17:13:21] DEBUG MemberDao.doSave(MemberDao.java:111) - 2. flag:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk01,이상무01,4321a,jamesol@paran.com,0,2025-04-18,일반
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk02,이상무02,4321a,jamesol@paran.com,0,2025-04-19,일반
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk03,이상무03,4321a,jamesol@paran.com,0,2025-04-20,일반
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk04,이상무04,4321a,jamesol@paran.com,0,2025-04-21,일반
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk05,이상무05,4321a,jamesol@paran.com,0,2025-04-22,관리자
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:78) - ┌───────────────────┐
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:79) - │List<MemberVO>     │
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:80) - └───────────────────┘
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@5ef6ae06]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@305a0c5f]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4535b6d5]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@1ecee32c]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@4372b9b6]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4b41e4dd]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@22ffa91a]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@74960bfa]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@42721fe]
+[2025-04-23 17:13:21] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@40844aab]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk01,이상무01,4321a,jamesol@paran.com,0,2025-04-18,일반
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk02,이상무02,4321a,jamesol@paran.com,0,2025-04-19,일반
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk03,이상무03,4321a,jamesol@paran.com,0,2025-04-20,일반
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk04,이상무04,4321a,jamesol@paran.com,0,2025-04-21,일반
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk05,이상무05,4321a,jamesol@paran.com,0,2025-04-22,관리자
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:78) - ┌───────────────────┐
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:79) - │List<MemberVO>     │
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:80) - └───────────────────┘
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@5ef6ae06]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@305a0c5f]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4535b6d5]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@1ecee32c]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@4372b9b6]
+[2025-04-23 17:14:05] DEBUG MemberDao.doSave(MemberDao.java:103) - 1. param:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 17:14:05] DEBUG MemberDao.doSave(MemberDao.java:111) - 2. flag:MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk01,이상무01,4321a,jamesol@paran.com,0,2025-04-18,일반
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk02,이상무02,4321a,jamesol@paran.com,0,2025-04-19,일반
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk03,이상무03,4321a,jamesol@paran.com,0,2025-04-20,일반
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk04,이상무04,4321a,jamesol@paran.com,0,2025-04-21,일반
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:61) - pcwk05,이상무05,4321a,jamesol@paran.com,0,2025-04-22,관리자
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:78) - ┌───────────────────┐
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:79) - │List<MemberVO>     │
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:80) - └───────────────────┘
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@5ef6ae06]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@305a0c5f]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4535b6d5]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@1ecee32c]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@4372b9b6]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk06, name=이상무06, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@232a7d73]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk01, name=이상무01, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-18, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@4b41e4dd]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk02, name=이상무02, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-19, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@22ffa91a]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk03, name=이상무03, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-20, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@74960bfa]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk04, name=이상무04, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-21, role=일반, toString()=com.pcwk.ehr.member.vo.MemberVO@42721fe]
+[2025-04-23 17:14:05] DEBUG MemberDao.getMemberReadFile(MemberDao.java:83) - MemberVO [memberId=pcwk05, name=이상무05, password=4321a, email=jamesol@paran.com, loginCount=0, regDt=2025-04-22, role=관리자, toString()=com.pcwk.ehr.member.vo.MemberVO@40844aab]
