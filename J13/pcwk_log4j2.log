@@ -1,0 +1,9 @@
+[2025-04-03 15:20:30] DEBUG Main.main(Main.java:17) - bebug
+[2025-04-03 15:20:30] INFO  Main.main(Main.java:18) - info
+[2025-04-03 15:20:30] WARN  Main.main(Main.java:19) - warn
+[2025-04-03 15:20:30] ERROR Main.main(Main.java:20) - error
+[2025-04-03 15:20:30] FATAL Main.main(Main.java:21) - fatal
+[2025-04-03 15:25:05] INFO  Main.main(Main.java:18) - info
+[2025-04-03 15:25:05] WARN  Main.main(Main.java:19) - warn
+[2025-04-03 15:25:05] ERROR Main.main(Main.java:20) - error
+[2025-04-03 15:25:05] FATAL Main.main(Main.java:21) - fatal
