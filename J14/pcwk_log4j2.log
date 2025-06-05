@@ -1,0 +1,15 @@
+[2025-04-07 16:43:10] DEBUG Main.main(Main.java:13) - Hello, worlds!
+[2025-04-07 16:43:10] INFO  Main.main(Main.java:14) - info
+[2025-04-07 16:43:10] WARN  Main.main(Main.java:15) - warn
+[2025-04-07 16:43:10] ERROR Main.main(Main.java:16) - error
+[2025-04-07 16:43:10] FATAL Main.main(Main.java:17) - fatal
+[2025-04-07 16:45:17] DEBUG Main.main(Main.java:13) - Hello, worlds!
+[2025-04-07 16:45:17] INFO  Main.main(Main.java:14) - info
+[2025-04-07 16:45:17] WARN  Main.main(Main.java:15) - warn
+[2025-04-07 16:45:17] ERROR Main.main(Main.java:16) - error
+[2025-04-07 16:45:17] FATAL Main.main(Main.java:17) - fatal
+[2025-04-07 16:45:25] DEBUG Main.main(Main.java:13) - Hello, worlds!
+[2025-04-07 16:45:25] INFO  Main.main(Main.java:14) - info
+[2025-04-07 16:45:25] WARN  Main.main(Main.java:15) - warn
+[2025-04-07 16:45:25] ERROR Main.main(Main.java:16) - error
+[2025-04-07 16:45:25] FATAL Main.main(Main.java:17) - fatal

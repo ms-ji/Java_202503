@@ -1,0 +1,34 @@
+[2025-04-04 09:33:08] DEBUG Main.main(Main.java:10) - Hello, worlds!
+[2025-04-04 09:36:58] DEBUG Main.main(Main.java:11) - Hello, worlds!
+[2025-04-04 09:36:58] INFO  Main.main(Main.java:12) - info
+[2025-04-04 09:38:46] DEBUG Main.main(Main.java:11) - Hello, worlds!
+[2025-04-04 09:38:46] INFO  Main.main(Main.java:12) - info
+[2025-04-04 09:38:46] WARN  Main.main(Main.java:13) - warn
+[2025-04-04 09:38:46] ERROR Main.main(Main.java:14) - error
+[2025-04-04 09:38:46] FATAL Main.main(Main.java:15) - fatal
+[2025-04-04 09:50:05] DEBUG Main.main(Main.java:13) - Hello, worlds!
+[2025-04-04 09:50:05] INFO  Main.main(Main.java:14) - info
+[2025-04-04 09:50:05] WARN  Main.main(Main.java:15) - warn
+[2025-04-04 09:50:05] ERROR Main.main(Main.java:16) - error
+[2025-04-04 09:50:05] FATAL Main.main(Main.java:17) - fatal
+[2025-04-04 10:02:12] DEBUG Animal.<init>(Animal.java:11) - Animal() Default 생성자
+[2025-04-04 10:02:12] DEBUG Dog.<init>(Dog.java:13) - Dog 생성자
+[2025-04-04 10:02:12] DEBUG Animal.sound(Animal.java:15) - 동물이 소리를 냅니다.
+[2025-04-04 10:02:12] DEBUG Dog.sound(Dog.java:18) - 강아지가 멍멍 짖습니다.
+[2025-04-04 10:05:49] DEBUG Animal.<init>(Animal.java:12) - Animal() Default 생성자
+[2025-04-04 10:05:49] DEBUG Dog.<init>(Dog.java:12) - Dog 생성자
+[2025-04-04 10:05:49] DEBUG Animal.sound(Animal.java:17) - 동물이 소리를 냅니다.
+[2025-04-04 10:05:49] DEBUG Dog.sound(Dog.java:17) - 강아지가 멍멍 짖습니다.
+[2025-04-04 10:07:39] DEBUG Animal.<init>(Animal.java:12) - Animal() Default 생성자
+[2025-04-04 10:07:39] DEBUG Dog.<init>(Dog.java:12) - Dog 생성자
+[2025-04-04 10:07:39] DEBUG Animal.<init>(Animal.java:12) - Animal() Default 생성자
+[2025-04-04 10:07:39] DEBUG Cat.<init>(Cat.java:7) - Cat 생성자
+[2025-04-04 10:07:39] DEBUG Dog.sound(Dog.java:17) - 강아지가 멍멍 짖습니다.
+[2025-04-04 10:07:39] DEBUG Animal.sound(Animal.java:17) - 동물이 소리를 냅니다.
+[2025-04-04 10:07:39] DEBUG Cat.sound(Cat.java:15) - 고양이가 야옹야옹.
+[2025-04-04 10:09:08] DEBUG Animal.<init>(Animal.java:12) - Animal() Default 생성자
+[2025-04-04 10:09:08] DEBUG Dog.<init>(Dog.java:12) - Dog 생성자
+[2025-04-04 10:09:08] DEBUG Animal.<init>(Animal.java:12) - Animal() Default 생성자
+[2025-04-04 10:09:08] DEBUG Cat.<init>(Cat.java:7) - Cat 생성자
+[2025-04-04 10:09:08] DEBUG Dog.sound(Dog.java:17) - 강아지가 멍멍 짖습니다.
+[2025-04-04 10:09:08] DEBUG Cat.sound(Cat.java:15) - 고양이가 야옹야옹.
